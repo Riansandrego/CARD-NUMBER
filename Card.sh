@@ -2,7 +2,7 @@
 
 
 sleep 2
-figlet INDOnimous
+figlet Riansandrego
 sleep 2
 apt-get update && apt-get upgrade
 sleep 2
